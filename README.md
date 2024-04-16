@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashwin-s-nambiar-portfolio.netlify.app/](https://ashwin-s-nambiar-portfolio.netlify.app/)
 
-- 💬 Ask me about **C, MYSQL, Python, HTML, CSS and Javascript**
+- 💬 Ask me about **C, MYSQL, Python, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **ashwinnambiar12345@gmail.com**
 
