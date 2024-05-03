@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
-🔭 I’m currently working to improve my skill set.<br><br>🌱 I’m currently learning Cybersecurity, Frontend Web Development and Java<br><br>👨‍💻 Portfolio available at https://ashwin-s-nambiar-portfolio.netlify.app/<br><br>💬 Ask me about C, MYSQL, Python, HTML, CSS and JavaScript<br><br>
+🔭 I’m currently working to improve my skill set.<br><br>🌱 I’m currently learning Cybersecurity, Frontend Web Development and Python<br><br>👨‍💻 Portfolio available at https://ashwin-s-nambiar-portfolio.netlify.app/<br><br>💬 Ask me about C, Java, SQL, Python, HTML, CSS and JavaScript<br><br>
 
 
 ## 🌐 Socials:
