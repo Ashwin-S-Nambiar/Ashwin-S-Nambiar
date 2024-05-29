@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tisa&size=22&pause=1000&multiline=true&random=false&width=435&height=70&lines=Hey!+Nice+to+meet+you%2C+I'm+Ashwin.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 # 💫 About Me:
-🔭 I’m currently working to improve my skill set.<br><br>🌱 I’m currently learning Cybersecurity, Frontend Web Development and Python<br><br>👨‍💻 Portfolio available at https://ashwin-s-nambiar-portfolio.netlify.app/<br><br>💬 Ask me about C, Java, SQL, Python, HTML, CSS and JavaScript<br><br>
+🔭 I’m currently working to improve my skill set.<br><br>🌱 I’m currently learning Frontend Web Development, Python and Cybersecurity.<br><br>👨‍💻 Portfolio available at https://ashwin-s-nambiar-portfolio.netlify.app/<br><br>💬 Ask me about C, Java, SQL, Python, HTML, CSS and JavaScript.<br><br>
 
 
 ## 🌐 Socials:
