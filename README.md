@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">🌱 I'm  currently improving my skillset on Front-end Development and especially MERN.<br><br>👨‍💻 Portfolio available at [Portfolio](https://ashwin-portfolio-alpha.vercel.app/)<br><br>💬 Ask me about C, Python, Java, HTML, CSS, JavaScript and React.</p>
+🌱 I'm  currently improving my skillset on Front-end Development and especially MERN.<br><br>👨‍💻 Portfolio available at [Portfolio](https://ashwin-portfolio-alpha.vercel.app/)<br><br>💬 Ask me about C, Python, Java, HTML, CSS, JavaScript and React.
 
 ###
 
@@ -80,7 +80,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/snake.svg">
+</picture>
 
 ###
 
