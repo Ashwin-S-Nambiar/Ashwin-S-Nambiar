@@ -8,9 +8,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=Ashwin-S-Nambiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api/top-langs?username=Ashwin-S-Nambiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-7rh9.vercel.app?user=Ashwin-S-Nambiar&theme=dracula&border_radius=5" height="180" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=Ashwin-S-Nambiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api/top-langs?username=Ashwin-S-Nambiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-7rh9.vercel.app?user=Ashwin-S-Nambiar&theme=dracula&border_radius=5" height="160" alt="GitHub Streak" /></a>
+ <img height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlwbDN3aWYzNWNiczJ4cmRyOG43YWUxOTVkd2pwanBzaGpldW10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"  />
 </div>
 
 ###
@@ -51,10 +52,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlwbDN3aWYzNWNiczJ4cmRyOG43YWUxOTVkd2pwanBzaGpldW10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"  />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ashwin-s-nambiar-0b7a5b202/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -76,20 +73,16 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashwin-S-Nambiar.Ashwin-S-Nambiar&left_color=firebrick&right_color=forestgreen&left_text=Visitors"  />
 </div>
-
-###
