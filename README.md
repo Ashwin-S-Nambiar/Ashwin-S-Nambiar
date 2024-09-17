@@ -3,7 +3,7 @@
 
 ###
 
-🌱 I'm  currently improving my skillset on Front-end Development and especially MERN.<br><br>👨‍💻 Portfolio available at [Portfolio](https://ashwin-portfolio-alpha.vercel.app/).<br><br>💬 Ask me about C, Python, Java, HTML, CSS, JavaScript and React.
+🌱 I'm  currently improving my skill set on Front-end Development and especially MERN.<br><br>👨‍💻 Portfolio available at [Portfolio](https://ashwin-portfolio-alpha.vercel.app/).<br><br>💬 Ask me about C, Python, Java, HTML, CSS, JavaScript and React.
 
 ###
 
@@ -74,8 +74,6 @@
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
   </a>
 </div>
-
-<br clear="both">
 
 <div align="center">
   <picture>
