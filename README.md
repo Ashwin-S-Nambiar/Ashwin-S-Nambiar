@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api/top-langs?username=Ashwin-S-Nambiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-7rh9.vercel.app?user=Ashwin-S-Nambiar&theme=dracula&card_width=470&border_radius=5" height="160" alt="GitHub Streak" /></a>
   &nbsp;
- <img height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlwbDN3aWYzNWNiczJ4cmRyOG43YWUxOTVkd2pwanBzaGpldW10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"  />
+ <img height="160" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47jzzc9ezinfh97gfuvwil5rntbo05cjgp68qwkm9g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
