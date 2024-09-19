@@ -3,7 +3,7 @@
 
 ###
 
-🌱 I'm  currently improving my skill set on Front-end Development and especially MERN.<br><br>👨‍💻 Portfolio available at [Portfolio](https://ashwin-portfolio-alpha.vercel.app/).<br><br>💬 Ask me about C, Python, Java, HTML, CSS, JavaScript and React.
+🌱 I'm  currently improving my skill set on Front-end Development and also learning MERN Stack.<br><br>👨‍💻 Portfolio available at [Portfolio](https://ashwin-portfolio-alpha.vercel.app/).<br><br>💬 Ask me about C, Python, Java, HTML, CSS, JavaScript and React.
 
 ###
 
