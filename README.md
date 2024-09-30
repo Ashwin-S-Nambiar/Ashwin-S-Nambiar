@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=Ashwin-S-Nambiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&card_width=200&locale=en&hide_border=true" height="180em" alt="stats graph"  />
  <img src="https://github-readme-streak-stats-7rh9.vercel.app?user=Ashwin-S-Nambiar&theme=dark&card_width=400&hide_border=true" height="180em" alt="GitHub Streak" />
  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwin-s-nambiar&theme=dark" />
- <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api/top-langs?username=Ashwin-S-Nambiar&locale=en&hide_title=false&card_width=200&layout=compact&hide_progress=true&langs_count=5&theme=dark&hide_border=true" height="180em" alt="languages graph"  /> 
 </div>  
 
 <h2 align="center">🛠️ Skills & Expertise</h2>
