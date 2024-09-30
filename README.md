@@ -4,8 +4,7 @@
 ###
 🌱 ***I'm  currently improving my skill set on **Front-end Development** and also learning **MERN Stack**.***<br><br>👨‍💻 ***Portfolio available at **[Ashwin's Portfolio](https://ashwin-portfolio-alpha.vercel.app/)**.***<br><br>💬 ***Ask me about **C**, **Python**, **Java**, **HTML**, **CSS**, **JavaScript** and **React**.***
 
-###
----
+<h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=Ashwin-S-Nambiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="180em" alt="stats graph"  />
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-7rh9.vercel.app?user=Ashwin-S-Nambiar&theme=dark&hide_border=true" height="180em" alt="GitHub Streak" /></a>
@@ -13,14 +12,14 @@
  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api/top-langs?username=Ashwin-S-Nambiar&locale=en&hide_title=false&card_width=200&layout=compact&hide_progress=true&langs_count=5&theme=dark&hide_border=true" height="180em" alt="languages graph"  /> 
 </div>  
 
----
+<h2 align="center">🛠️ Skills & Expertise</h2>
 <p align="center">
   <a href="https://ashwin-s-nambiar.is-a.dev/">
     <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,git,github,md,mysql,npm,windows,linux,figma,firebase,netlify,vercel,notion&perline=12" />  
   </a>
 </p>
 
-###
+<h2 align="center">👋 Let's Connect!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ashwin-s-nambiar-0b7a5b202/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -32,9 +31,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" />  
   </a>
 </p>
-
-###
----
+<h2 align="center"></h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake-dark.svg">
