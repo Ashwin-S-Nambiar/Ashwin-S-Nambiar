@@ -2,79 +2,39 @@
 <h1 align="left">I'm an aspiring Front-end Developer, from India.</h1>
 
 ###
-
 🌱 ***I'm  currently improving my skill set on **Front-end Development** and also learning **MERN Stack**.***<br><br>👨‍💻 ***Portfolio available at **[Ashwin's Portfolio](https://ashwin-portfolio-alpha.vercel.app/)**.***<br><br>💬 ***Ask me about **C**, **Python**, **Java**, **HTML**, **CSS**, **JavaScript** and **React**.***
 
 ###
-
+---
 <div align="center">
-  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=Ashwin-S-Nambiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  &nbsp;
-  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api/top-langs?username=Ashwin-S-Nambiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-7rh9.vercel.app?user=Ashwin-S-Nambiar&theme=dracula&card_width=470&border_radius=5" height="160" alt="GitHub Streak" /></a>
-  &nbsp;
- <img height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtwYWRodmJ0cjZ0Nzl4M2d4eHk4dDVhNHQ5YnhuY2wwOTRvNmd1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
+  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=Ashwin-S-Nambiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="180em" alt="stats graph"  />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-7rh9.vercel.app?user=Ashwin-S-Nambiar&theme=dark&hide_border=true" height="180em" alt="GitHub Streak" /></a>
+ <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwin-s-nambiar&theme=dark" />
+ <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api/top-langs?username=Ashwin-S-Nambiar&locale=en&hide_title=false&card_width=200&layout=compact&hide_progress=true&langs_count=5&theme=dark&hide_border=true" height="180em" alt="languages graph"  /> 
+</div>  
+
+---
+<p align="center">
+  <a href="https://ashwin-s-nambiar.is-a.dev/">
+    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,git,github,md,mysql,npm,windows,linux,figma,firebase,netlify,vercel,notion&perline=12" />  
+  </a>
+</p>
 
 ###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
-
-###
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/ashwin-s-nambiar-0b7a5b202/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ashwinnambiar12345@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail" />  
   </a>
   <a href="https://x.com/ashwinnambiar11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://skillicons.dev/icons?i=twitter" />  
   </a>
-  <a href="https://t.me/realAshwin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ashwinnambiar121" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://dev.to/ashwinsnambiar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
-  </a>
-</div>
+</p>
 
+###
+---
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake-dark.svg">
