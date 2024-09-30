@@ -8,8 +8,8 @@
 <div align="center">
   <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=Ashwin-S-Nambiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&card_width=200&locale=en&hide_border=true&border_radius=4" height="180em" alt="stats graph"  />
  <img src="https://github-readme-streak-stats-7rh9.vercel.app?user=Ashwin-S-Nambiar&theme=dark&card_width=400&hide_border=true&border_radius=4" height="180em" alt="GitHub Streak" />
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin-S-Nambiar&theme=dark&border_radius=4" />
- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwin-s-nambiar&theme=dark&border_radius=4" />
+ <img height="180em" width="520px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin-S-Nambiar&theme=dark&border_radius=4" />
+ <img height="180em" width="255px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwin-s-nambiar&theme=dark&border_radius=4" />
 </div>  
 
 <h2 align="center">🛠️ Skills & Expertise</h2>
