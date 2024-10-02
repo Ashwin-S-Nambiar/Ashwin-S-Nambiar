@@ -39,7 +39,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashwin-S-Nambiar.Ashwin-S-Nambiar&left_color=firebrick&right_color=forestgreen&left_text=Visitors"  />
-</div>
