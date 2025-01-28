@@ -15,7 +15,7 @@
 <h2 align="center">🛠️ Skills & Expertise</h2>
 <p align="center">
   <a href="https://ashwin-s-nambiar.is-a.dev/">
-    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,git,github,md,mysql,npm,windows,linux,figma,firebase,netlify,vercel,notion&perline=12" />  
+    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,ts,react,nextjs,nodejs,vite,webpack,tailwind,bootstrap,git,github,mysql,npm,linux,figma,firebase,netlify,vercel,notion&perline=12" />  
   </a>
 </p>
 
