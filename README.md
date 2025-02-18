@@ -2,7 +2,7 @@
 <h1 align="left">I'm an aspiring Front-end Developer, from India.</h1>
 
 ###
-🌱 ***I'm  currently improving my skill set on **Front-end Development** and also learning **MERN Stack**.***<br><br>👨‍💻 ***Portfolio available at **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**.***<br><br>💬 ***Ask me about **Frontend Web Development**, **Node.js**, **C**, **Python** and **Next.js**.***
+🌱 ***I'm  currently improving my skill set on **Front-end Development** and also learning **MERN Stack**.***<br><br>👨‍💻 ***Portfolio available at **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**.***<br><br>💬 ***Ask me about **Front-end Web Development**, **Node.js**, **C**, **Python** and **Next.js**.***
 
 <h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
