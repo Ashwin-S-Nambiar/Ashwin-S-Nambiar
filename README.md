@@ -2,7 +2,7 @@
 <h1 align="left">I'm an aspiring Front-end Developer, from India.</h1>
 
 ###
-🌱 ***I'm  currently improving my skill set on **Front-end Development** and also learning **MERN Stack**.***<br><br>👨‍💻 ***Portfolio available at **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**.***<br><br>💬 ***Ask me about **Front-end Web Development**, **Node.js**, **C**, **Python** and **Next.js**.***
+**Check out my portfolio at: [Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
 
 <h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
@@ -18,20 +18,6 @@
     <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,ts,react,nextjs,nodejs,vite,webpack,tailwind,bootstrap,git,github,mysql,npm,linux,figma,firebase,netlify,vercel,notion&perline=12" />  
   </a>
 </p>
-
-<h2 align="center">👋 Let's Connect!</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashwin-s-nambiar-0b7a5b202/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:ashwinnambiar12345@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />  
-  </a>
-  <a href="https://x.com/ashwinnambiar11" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />  
-  </a>
-</p>
-<h2 align="center"></h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwin-S-Nambiar/Ashwin-S-Nambiar/output/github-contribution-grid-snake-dark.svg">
