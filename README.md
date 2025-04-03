@@ -2,7 +2,7 @@
 <h1 align="left">I'm an aspiring Front-end Developer, from India.</h1>
 
 ###
-**View my portfolio at: [Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
+View my portfolio at: **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
 
 <h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
