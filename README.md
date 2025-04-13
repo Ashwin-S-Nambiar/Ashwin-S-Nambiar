@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tisa&size=22&pause=1000&multiline=true&random=false&width=435&height=70&lines=Hey!+Nice+to+meet+you%2C+I'm+Ashwin.;Welcome+to+my+profile!)](https://git.io/typing-svg)
-<h1 align="left">I'm an aspiring Front-end Developer, from India.</h1>
+<h1 align="left">Aspiring Front-end Developer, from India.</h1>
 
 ###
 **I’m a Frontend Developer who turns design mockups into pixel‑perfect, performant web apps using React, TypeScript, and Tailwind CSS.**
-
 **View my portfolio here**: **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
 
 <h2 align="center"> 👾 Github Stats</h2>
