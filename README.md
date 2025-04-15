@@ -2,8 +2,9 @@
 <h1 align="left">Aspiring Front-end Developer, from India.</h1>
 
 ###
-**I’m a Frontend Developer who turns design mockups into pixel‑perfect, performant web apps using React, TypeScript, and Tailwind CSS.**
-**View my portfolio here**: **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
+***I’m a Frontend Developer who turns design mockups into pixel‑perfect, performant web apps using React, TypeScript, and Tailwind CSS.***
+###
+***View my portfolio here**: **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)***
 
 <h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
