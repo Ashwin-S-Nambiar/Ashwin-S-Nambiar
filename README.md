@@ -2,7 +2,7 @@
 <h1 align="left">Aspiring Front-end Developer, from India.</h1>
 
 ###
-***A Frontend Developer who turns design mockups into pixel‑perfect, performant web apps using React, TypeScript, and Tailwind CSS.***
+***A front-end developer who turns design mockups into pixel‑perfect, performant web apps using React, TypeScript, and Tailwind CSS.***
 
 ***View my portfolio here**: **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)***
 
