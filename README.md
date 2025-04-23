@@ -4,7 +4,7 @@
 ###
 ***Front-end developer specializing in transforming design mockups into pixel-perfect, high-performance web applications. I leverage the power of React, TypeScript, and Tailwind CSS to build responsive, accessible, and maintainable user interfaces. With a keen eye for detail and a passion for clean code, I create seamless user experiences that balance visual aesthetics with technical excellence.***
 
-**📂 Portfolio: [Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
+📂 ***Portfolio: [Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)***
 
 <h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
