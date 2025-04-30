@@ -2,9 +2,15 @@
 <h1 align="left">Aspiring Front-end Developer, from India.</h1>
 
 ###
-***Front-end developer specializing in transforming design mockups into pixel-perfect, high-performance web applications. I leverage the power of React, TypeScript, and Tailwind CSS to build responsive, accessible, and maintainable user interfaces. With a keen eye for detail and a passion for clean code, I create seamless user experiences that balance visual aesthetics with technical excellence.***
+**I'm a front-end developer who loves transforming design mockups into beautiful, high-performance web applications. Working at the intersection of design and code, I craft user interfaces that are not only visually appealing but also technically sound.**
 
-📂 ***Portfolio: [Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)***
+**My expertise lies in Next.js, React, TypeScript, and Tailwind CSS, which I use to build responsive and accessible experiences that work seamlessly across devices. I believe great front-end work requires both technical excellence and aesthetic sensibility—code that's as elegant behind the scenes as the interfaces it creates.**
+
+**What drives me is the satisfaction of seeing a design come to life with smooth interactions and pixel-perfect execution. I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions.**
+
+**I value clean, maintainable code that makes collaboration easy and effective. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
+
+📂 **Portfolio: [Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
 
 <h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
