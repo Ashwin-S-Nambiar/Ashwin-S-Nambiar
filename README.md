@@ -8,7 +8,7 @@
 
 **What drives me is the satisfaction of seeing a design come to life with smooth interactions and pixel-perfect execution. I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions.**
 
-**I value clean, maintainable code that makes collaboration easy and effective. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
+**I create clean, maintainable code that makes collaboration easy and effective. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
 
 📂 **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
 
