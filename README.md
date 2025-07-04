@@ -4,7 +4,7 @@
 ###
 **I'm a front-end developer who loves transforming design mockups into beautiful, high-performance web applications. Working at the intersection of design and code, I craft user interfaces that are not only visually appealing but also technically sound.**
 
-**My expertise lies in Next.js, React, TypeScript, and Tailwind CSS, which I use to build responsive and accessible experiences that work seamlessly across devices. I believe great front-end work requires both technical excellence and aesthetic sensibility—code that's as elegant behind the scenes as the interfaces it creates.**
+**My expertise lies in Next.js, React, TypeScript, and Tailwind CSS, which I use to build responsive and accessible experiences that work seamlessly across devices. I believe great front-end work requires both technical excellence and aesthetic that's as elegant behind the scenes as the interfaces it creates.**
 
 **What drives me is the satisfaction of seeing a design come to life with smooth interactions and pixel-perfect execution. I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions.**
 
