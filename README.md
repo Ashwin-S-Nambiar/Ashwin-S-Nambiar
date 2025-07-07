@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tisa&size=22&pause=1000&multiline=true&random=false&width=435&height=70&lines=Hey!+Nice+to+meet+you%2C+I'm+Ashwin.;Welcome+to+my+profile!)](https://git.io/typing-svg)
-<h1 align="left">Aspiring Front-end Developer, from India.</h1>
+<h1 align="left">Front-end Developer, from India.</h1>
 
 ###
 **I'm a front-end developer who loves transforming design mockups into beautiful, high-performance web applications. Working at the intersection of design and code, I craft user interfaces that are not only visually appealing but also technically sound.**
