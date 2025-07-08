@@ -2,7 +2,7 @@
 <h1 align="left">Front-end Developer, from India.</h1>
 
 ###
-**I'm a front-end developer who loves transforming design mockups into beautiful, high-performance web applications. Working at the intersection of design and code, I craft user interfaces that are not only visually appealing but also technically sound.**
+**I'm a front-end developer who loves transforming design mockups into beautiful, high-performance web applications. I craft user interfaces that are not only visually appealing but also technically sound.**
 
 **My expertise lies in Next.js, React, TypeScript, and Tailwind CSS, which I use to build responsive and accessible experiences that work seamlessly across devices.**
 
