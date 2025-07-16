@@ -10,6 +10,8 @@
 
 **I create clean, maintainable code that makes collaboration easy and effective. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
 
+**Checkout my portfolio via the link below:**
+
 📂 **[Ashwin's Portfolio](https://ashwin-s-nambiar.is-a.dev/)**
 
 <h2 align="center"> 👾 Github Stats</h2>
