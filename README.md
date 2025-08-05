@@ -6,7 +6,7 @@
 
 **My expertise lies in Next.js, React, TypeScript, and Tailwind CSS, which I use to build responsive and accessible experiences that work seamlessly across devices.**
 
-**What drives me is the satisfaction of seeing a design come to life with smooth interactions and pixel-perfect execution. I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions.**
+**I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions.**
 
 **I create clean, maintainable code that makes collaboration easy and effective. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
 
