@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tisa&size=22&pause=1000&multiline=true&random=false&width=435&height=70&lines=Hey!+Nice+to+meet+you%2C+I'm+Ashwin.;Welcome+to+my+profile!)](https://git.io/typing-svg)
-<h1 align="left">Front-end Developer, from India.</h1>
+<h1 align="left">Front-end Developer, from India</h1>
 
 📂 **[ashwin.co.in](https://ashwin.co.in)**
 
