@@ -8,9 +8,7 @@
 
 **My expertise lies in Next.js, React, TypeScript, and Tailwind CSS, which I use to build responsive and accessible experiences that work seamlessly across devices.**
 
-**I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions.**
-
-**I create clean, maintainable code that makes collaboration easy and effective. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
+**I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
 
 <h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
