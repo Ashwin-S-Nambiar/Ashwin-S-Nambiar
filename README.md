@@ -10,7 +10,6 @@
 
 **I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
 
-<h2 align="center"> 👾 Github Stats</h2>
 <div align="center">
  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=ashwin-s-nambiar&border_radius=4&card_width=200&count_private=true&show_icons=true&theme=dark&hide_border=true" height="180em"/>
  <img src="https://github-readme-streak-stats-7rh9.vercel.app/?user=Ashwin-S-Nambiar&theme=dark&card_width=400&hide_border=true&border_radius=4" height="180em" alt="GitHub Streak" />
