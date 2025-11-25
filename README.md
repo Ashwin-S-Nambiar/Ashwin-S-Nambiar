@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tisa&size=22&pause=1000&multiline=true&random=false&width=435&height=70&lines=Hey!+Nice+to+meet+you%2C+I'm+Ashwin.;Welcome+to+my+profile!)](https://git.io/typing-svg)
-<h1 align="left">Front-end Developer, from India</h1>
+<h1 align="left">Full-stack Developer, from India</h1>
 
 📂 **[ashwin.co.in](https://ashwin.co.in)**
 
 ###
-**I'm a front-end developer who loves transforming design mockups into beautiful, high-performance web applications. I craft user interfaces that are not only visually appealing but also technically sound.**
+**I'm a full-stack developer with a front-end focus, turning design mockups into fast, polished, and reliable web experiences.**
 
-**My expertise lies in Next.js, React, TypeScript, and Tailwind CSS, which I use to build responsive and accessible experiences that work seamlessly across devices.**
+**I work mainly with Next.js, React, TypeScript, and Tailwind CSS to build responsive, accessible interfaces - and extend them with Node.js, Azure Functions, and Cosmos DB when backend support or API development is needed.**
 
-**I'm constantly learning new techniques and technologies to enhance my craft and deliver better solutions. If you're looking for someone who cares deeply about both user experience and code quality, let's connect and build something amazing together.**
+**I’m always leveling up my craft, exploring better patterns, and building things that feel great to use and maintain. If you value thoughtful UX and solid engineering, let’s connect and create something meaningful.**
 
 <div align="center">
  <img src="https://github-readme-stats-ecru-gamma-17.vercel.app/api?username=ashwin-s-nambiar&border_radius=4&card_width=200&count_private=true&show_icons=true&theme=dark&hide_border=true" height="180em"/>
