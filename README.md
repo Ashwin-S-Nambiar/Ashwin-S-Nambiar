@@ -6,7 +6,7 @@
 ###
 **I'm a full-stack developer with a front-end focus, turning design mockups into fast, polished, and reliable web experiences.**
 
-**I work mainly with Next.js, React, TypeScript, and Tailwind CSS to build responsive, accessible interfaces - and extend them with Node.js, Azure Functions, and Cosmos DB when backend support or API development is needed.**
+**I work mainly with Next.js, React, TypeScript, and Tailwind CSS to build responsive, accessible interfaces - and extend them with Node.js, PostgreSQL or MongoDB when backend support or API development is needed.**
 
 **I’m always leveling up my craft, exploring better patterns, and building things that feel great to use and maintain. If you value thoughtful UX and solid engineering, let’s connect and create something meaningful.**
 
