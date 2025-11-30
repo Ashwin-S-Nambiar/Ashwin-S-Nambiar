@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tisa&size=22&pause=1000&multiline=true&random=false&width=435&height=70&lines=Hey!+Nice+to+meet+you%2C+I'm+Ashwin.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <h1 align="left">Full-stack Developer, from India</h1>
 
-📂 **[ashwin.co.in](https://ashwin.co.in)**
+📂: **[ashwin.co.in](https://ashwin.co.in)**
 
 ###
 **I'm a full-stack developer with a front-end focus, turning design mockups into fast, polished, and reliable web experiences.**
