@@ -4,7 +4,7 @@
 📂: **[ashwin.co.in](https://ashwin.co.in)**
 
 ###
-**I'm a full-stack developer with a front-end focus, turning design mockups into fast, polished, and reliable web experiences.**
+**I'm a full-stack developer with a front-end focus, turning design mockups into smooth, polished, and reliable web experiences.**
 
 **I work mainly with Next.js, React, TypeScript, and Tailwind CSS to build responsive, accessible interfaces - and extend them with Node.js, PostgreSQL or MongoDB when backend support or API development is needed.**
 
