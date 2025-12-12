@@ -1,5 +1,5 @@
 # Hey, I'm Ashwin 👋
-Full-stack developer building modern, thoughtful web experiences.  
+**Full-stack developer** building modern, thoughtful web experiences.  
 React • Next.js • TypeScript • Tailwind CSS • Node.js
 #
 ### Some of my works
