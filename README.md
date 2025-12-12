@@ -1,4 +1,4 @@
-# Hey, I'm Ashwin 👋
+# Hey, I'm Ashwin <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="45" height="45">
 **Full-stack developer** building modern, thoughtful web experiences.  
 React • Next.js • TypeScript • Tailwind CSS • Node.js
 #
