@@ -1,5 +1,7 @@
 # Hey, I'm Ashwin <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="45" height="45">
 **Full-stack developer** building modern, thoughtful web experiences.  
+Currently working at **[Twiggle Labs](https://twigglelabs.in)**.
+
 **React** • **Next.js** • **TypeScript** • **Tailwind CSS** • **Node.js**
 #
 ### Some of my works
