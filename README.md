@@ -2,7 +2,7 @@
 **Full-stack developer** building modern, thoughtful web experiences.  
 Currently working at **[Twiggle Labs](https://twigglelabs.in)**.
 
-**React** • **Next.js** • **TypeScript** • **Tailwind CSS** • **Node.js**
+**Next.js** • **React** • **Node.js** • **TypeScript**
 #
 ### Some of my works
 - **[Quillify](https://quillify.ashwin.co.in)** – full-stack blogging app  
