@@ -8,7 +8,7 @@ Currently working at **[Twiggle Labs](https://twigglelabs.in)**.
 ### Some of my work
 - **[Quillify](https://quillify.ashwin.co.in)** – full-stack blogging app  
 - **[MovieVault](https://movievault.ashwin.co.in)** – movie discovery / watchlist  
-- **[QuizzMe!](https://quizzme.ashwin.co.in)** – interactive quiz experience
+- **[QuizzMe](https://quizzme.ashwin.co.in)** – interactive quiz experience
 
 View more → **[ashwin.co.in](https://ashwin.co.in)**
 #
