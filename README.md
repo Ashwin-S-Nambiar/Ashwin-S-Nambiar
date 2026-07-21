@@ -1,9 +1,9 @@
 # Hey, I'm Ashwin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-**Full-stack developer** building modern, thoughtful web experiences.  
+**Full-stack engineer** building modern, thoughtful web experiences.  
 
 Building **[microdose.fun](https://www.microdose.fun)**.
 
-**Next.js** • **React** • **Node.js** • **TypeScript**
+**Next.js** • **React** • **TypeScript** • **Node.js**
 #
 ### Some of my work
 - **[Quillify](https://quillify.ashwin.co.in)** – full-stack blogging app  
