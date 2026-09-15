@@ -8,7 +8,7 @@ Building **[microdose.fun](https://www.microdose.fun)**.
 ### Some of my work
 - **[simkl-api](https://github.com/Ashwin-S-Nambiar/simkl-api)** - last-watched endpoint powering my site's widget
 - **[Quillify](https://quillify.ashwin.co.in)** - full-stack blogging app  
-- **[MovieVault](https://movievault.ashwin.co.in)** - movie discovery / watchlist  
+- **[MovieVault](https://movievault.ashwin.co.in)** - content discovery / watchlist  
 - **[QuizzMe](https://quizzme.ashwin.co.in)** - interactive quiz experience
 
 #
