@@ -3,7 +3,7 @@
 
 Building **[microdose](https://www.microdose.fun) and [studio.microdose](https://studio.microdose.fun)**.
 
-**Next.js** • **React** • **TypeScript** • **Node.js**
+**Next.js** • **React** • **TypeScript** • **Express.js**
 #
 ### Some of my work
 - **[simkl-api](https://github.com/Ashwin-S-Nambiar/simkl-api)** - last-watched endpoint powering my site's widget
