@@ -3,10 +3,13 @@
 
 #
 ### Some of my work
-- **[simkl-api](https://github.com/Ashwin-S-Nambiar/simkl-api)** - last-watched endpoint powering my site's widget
-- **[Redline](https://redline.ashwin.co.in)** - a changelog for everything I build, with a feed for each project  
-- **[MovieVault](https://movievault.ashwin.co.in)** - where to stream any film or series, and a watchlist  
-- **[QuizzMe!](https://quizzme.ashwin.co.in)** - trivia rounds on any topic, with a replay of what you missed
+
+- **[Tend](https://tend.ashwin.co.in)** — A gentle Android medicine reminder, with schedules built around meals and bedtime.
+- **[MovieVault](https://movievault.ashwin.co.in)** — Discover films and series, explore details, and manage a watchlist.
+- **[Stampbook](https://stampbook.ashwin.co.in)** — Keep a travel journal with passport-style stamps, photos, notes, and an interactive map.
+- **[Pasteup](https://pasteup.ashwin.co.in)** — Create memes from templates or your own images, position captions, and save or share the result.
+
+**More projects:** [Kite](https://kite.ashwin.co.in) · [QuizzMe!](https://quizzme.ashwin.co.in) · [Redline](https://redline.ashwin.co.in) · [Inspect](https://inspect.ashwin.co.in) · [Fandeck](https://fandeck.ashwin.co.in) · [Chit](https://chit.ashwin.co.in) · [simkl-api](https://github.com/Ashwin-S-Nambiar/simkl-api)
 
 #
 ### Let’s connect  
