@@ -6,10 +6,10 @@
 
 - **[Tend](https://tend.ashwin.co.in)** — A gentle Android medicine reminder, with schedules built around meals and bedtime.
 - **[MovieVault](https://movievault.ashwin.co.in)** — Discover films and series, explore details, and manage a watchlist.
-- **[Stampbook](https://stampbook.ashwin.co.in)** — Keep a travel journal with passport-style stamps, photos, notes, and an interactive map.
+- **[Inspect](https://inspect.ashwin.co.in)** — Capture and document web projects with screenshots and screen recordings, making it easy to showcase.
 - **[Pasteup](https://pasteup.ashwin.co.in)** — Create memes from templates or your own images, position captions, and save or share the result.
 
-**More projects:** [Kite](https://kite.ashwin.co.in) · [QuizzMe!](https://quizzme.ashwin.co.in) · [Redline](https://redline.ashwin.co.in) · [Inspect](https://inspect.ashwin.co.in) · [Fandeck](https://fandeck.ashwin.co.in) · [Chit](https://chit.ashwin.co.in) · [simkl-api](https://github.com/Ashwin-S-Nambiar/simkl-api)
+**More projects:** [Kite](https://kite.ashwin.co.in) · [QuizzMe!](https://quizzme.ashwin.co.in) · [Tenzies](https://tenzies.ashwin.co.in) · [Redline](https://redline.ashwin.co.in) · [Stampbook](https://stampbook.ashwin.co.in) · [Fandeck](https://fandeck.ashwin.co.in) · [Chit](https://chit.ashwin.co.in) · [simkl-api](https://github.com/Ashwin-S-Nambiar/simkl-api)
 
 #
 ### Let’s connect  
