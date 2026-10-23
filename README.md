@@ -7,7 +7,7 @@
 - **[Tend](https://tend.ashwin.co.in)** — A gentle Android medicine reminder, with schedules built around meals and bedtime.
 - **[MovieVault](https://movievault.ashwin.co.in)** — Discover films and series, explore details, and manage a watchlist.
 - **[Inspect](https://inspect.ashwin.co.in)** — Document projects and experiments with notes linked to screenshots and screen recordings.
-- **[Pasteup](https://pasteup.ashwin.co.in)** — Create memes from templates or your own images, position captions, and save or share the result.
+- **[Pasteup](https://pasteup.ashwin.co.in)** — Create memes from templates or your own images, position captions, and save or share it.
 
 **More projects:** [Kite](https://kite.ashwin.co.in) · [QuizzMe!](https://quizzme.ashwin.co.in) · [Tenzies](https://tenzies.ashwin.co.in) · [Redline](https://redline.ashwin.co.in) · [Stampbook](https://stampbook.ashwin.co.in) · [Fandeck](https://fandeck.ashwin.co.in) · [Chit](https://chit.ashwin.co.in) · [simkl-api](https://github.com/Ashwin-S-Nambiar/simkl-api)
 
