@@ -1,5 +1,5 @@
 # Hey, I'm Ashwin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-**Full-stack engineer** building modern, thoughtful web experiences. Currently building **[microdose](https://www.microdose.fun) and [studio.microdose](https://studio.microdose.fun)**.
+**Full-stack engineer** building modern, thoughtful web experiences. Currently at **[thoughtful engineering](https://thoughtful.site)** building **[loka](https://loka.ygpt.dev) and [microdose](https://studio.microdose.fun)**.
 
 #
 ### Some of my work
